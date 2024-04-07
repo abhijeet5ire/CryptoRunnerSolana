@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 010ca679f79aab64f9a8e777f9d1f1c6
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -3100369314251171874
+    second: Idle
+  - first:
+      74: 2667949614841947897
+    second: Walk
+  - first:
+      74: 5522812681064789136
+    second: Run
+  - first:
+      74: -1967237200904029980
+    second: Idle Gym Screen 0
+  - first:
+      74: 3915275714400917503
+    second: Idle Gym Screen 1
+  - first:
+      74: -8476029006310387643
+    second: Idle Gym Screen 2
+  - first:
+      74: -8113716297716055343
+    second: Idle Gym Screen 3
+  - first:
+      74: 8925044659521273951
+    second: Defend
+  - first:
+      74: 500129595762499541
+    second: Challenge
+  - first:
+      74: -5533903024747340832
+    second: Idle_1
+  - first:
+      74: 1033208805667309998
+    second: React
+  - first:
+      74: 3929304943999017277
+    second: Retrieve
+  - first:
+      74: 6381016060304972148
+    second: Special Attack
+  - first:
+      74: 1115476926167756525
+    second: Throw Ball
+  - first:
+      74: -115899371804562333
+    second: Victory
+  - first:
+      74: 8763770076563414043
+    second: Defeat
+  - first:
+      74: 8079264627282955508
+    second: idle_pose_00
+  - first:
+      74: -8655742109904627538
+    second: idle_pose_01
+  - first:
+      74: 4882482723816676407
+    second: idle_pose_02
+  - first:
+      74: 8631613186457863221
+    second: idle_pose_03
+  - first:
+      74: -6640409284216642886
+    second: idle_pose_04
+  - first:
+      74: 7460122436274970666
+    second: idle_pose_05
+  - first:
+      74: -1178432296816423391
+    second: idle_pose_06
+  - first:
+      74: 4375111150232792940
+    second: idle_pose_07
+  - first:
+      74: 6110896902670669583
+    second: idle_pose_08
+  - first:
+      74: -1198934802448185049
+    second: idle_pose_09
+  - first:
+      74: -8264285561313976626
+    second: idle_pose_10
+  - first:
+      74: -3036488332722597324
+    second: idle_pose_11
+  - first:
+      74: 4327848090470325301
+    second: idle_pose_12
+  - first:
+      74: 3004479444352914009
+    second: idle_pose_13
+  - first:
+      74: 4872201102822873904
+    second: idle_pose_14
+  - first:
+      74: 5822628288621318531
+    second: idle_pose_15
+  - first:
+      74: -2589355845422177743
+    second: idle_pose_16
+  - first:
+      74: 979049213253623380
+    second: idle_pose_17
+  - first:
+      74: 9064840647551744893
+    second: idle_pose_18
+  - first:
+      74: -4157664407053210009
+    second: idle_pose_19
+  - first:
+      74: -2282329000440230174
+    second: Idle_Baby
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 9b831de55d5c85145af9d2e746dd524a
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -155674137766401883
+    second: raid_egg_2_model|raid_egg_0_model|RaidEggCountdown|Base Layer
+  - first:
+      74: -6380682463322960378
+    second: raid_egg_2_model|raid_egg_0_model|RaidEggHatchFinish|Base Layer
+  - first:
+      74: 5798731936701141552
+    second: raid_egg_2_model|raid_egg_0_model|RaidEggHatchLoop|Base Layer
+  - first:
+      74: -6850768805414588668
+    second: raid_egg_2_model|raid_egg_0_model|RaidEggHatchStart|Base Layer
+  - first:
+      74: -1242633078770963236
+    second: raid_egg_2_model|raid_egg_0_model|RaidEggSpawn|Base Layer
+  - first:
+      74: -6725223965463379293
+    second: raid_egg_2_model|raid_egg_0_model|RaidEggWiggleOnce|Base Layer
+  - first:
+      74: 378027016625151162
+    second: raid_egg_2_model|raid_egg_1_model|RaidEggCountdown|Base Layer
+  - first:
+      74: -6978881746570710802
+    second: raid_egg_2_model|raid_egg_1_model|RaidEggHatchFinish|Base Layer
+  - first:
+      74: 6442465559896026272
+    second: raid_egg_2_model|raid_egg_1_model|RaidEggHatchLoop|Base Layer
+  - first:
+      74: 2685889566288449609
+    second: raid_egg_2_model|raid_egg_1_model|RaidEggHatchStart|Base Layer
+  - first:
+      74: -6048532080883909758
+    second: raid_egg_2_model|raid_egg_1_model|RaidEggSpawn|Base Layer
+  - first:
+      74: 8490706731398467996
+    second: raid_egg_2_model|raid_egg_1_model|RaidEggWiggleOnce|Base Layer
+  - first:
+      74: -2044771643665208183
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggC
+  - first:
+      74: -1425001084311848722
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggCount
+  - first:
+      74: -1468329781736669890
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggH
+  - first:
+      74: 2451560005833526956
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggH.001
+  - first:
+      74: -1909231143362909697
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggH.002
+  - first:
+      74: 3678679304034212471
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggH.003
+  - first:
+      74: 8402613450146954288
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggH.004
+  - first:
+      74: 6901801529492872992
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggHatch
+  - first:
+      74: 8027480251446067158
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggS
+  - first:
+      74: 2826843540740156298
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggSpawn
+  - first:
+      74: -7032501629217225491
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggW
+  - first:
+      74: 6920341805640925810
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|RaidEggWiggl
+  - first:
+      74: 6121597762655821677
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg
+  - first:
+      74: -2441157376968174542
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.001
+  - first:
+      74: 2868227537596937610
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.002
+  - first:
+      74: 9114980947836356516
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.003
+  - first:
+      74: 5768420378541100168
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.004
+  - first:
+      74: -469143634644572059
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.005
+  - first:
+      74: 6660629309353896627
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.006
+  - first:
+      74: -1658073579894279011
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.007
+  - first:
+      74: -4963010658458323955
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.008
+  - first:
+      74: 6058351506766207601
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.009
+  - first:
+      74: -4536775836621134303
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.010
+  - first:
+      74: 8676058121038444252
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.011
+  - first:
+      74: -8306453495018294352
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.012
+  - first:
+      74: -5198985770833271210
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.013
+  - first:
+      74: 7019696793793531927
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.014
+  - first:
+      74: 3170627710891034895
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.015
+  - first:
+      74: 6718450325481864012
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.016
+  - first:
+      74: 7111912684505042897
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.017
+  - first:
+      74: 2882978179291478524
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.018
+  - first:
+      74: -6953158901979858457
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.019
+  - first:
+      74: -8579889471508779711
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.020
+  - first:
+      74: -1469678985844271689
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.021
+  - first:
+      74: 840475738853293608
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg.022
+  - first:
+      74: -2978109775429876137
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|raid_egg_5_m
+  - first:
+      74: 668123847488565949
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggC
+  - first:
+      74: -1411057781671124263
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggC.001
+  - first:
+      74: 8570496273560246436
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggC.002
+  - first:
+      74: 7377641811788305014
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggC.003
+  - first:
+      74: -3526369745194197886
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggC.004
+  - first:
+      74: 2954161930058512069
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggCount
+  - first:
+      74: 8194078477130875141
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH
+  - first:
+      74: 2219546857718742152
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.001
+  - first:
+      74: -5482181060737874860
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.002
+  - first:
+      74: -5648495430085364552
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.003
+  - first:
+      74: 4003849995603470542
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.004
+  - first:
+      74: 7506711166825042766
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.005
+  - first:
+      74: -6118081442946426960
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.006
+  - first:
+      74: 7840238680632344610
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.007
+  - first:
+      74: 4767943481296137880
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.008
+  - first:
+      74: -3557596142319675599
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.009
+  - first:
+      74: 7364914902934482932
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.010
+  - first:
+      74: -6281551433367466541
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.011
+  - first:
+      74: -1374539797504017201
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.012
+  - first:
+      74: 3929264861141831966
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.013
+  - first:
+      74: 554696973409053976
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.014
+  - first:
+      74: 6328020461765369743
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.015
+  - first:
+      74: -8311786361526624083
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggH.016
+  - first:
+      74: -4590893875226593560
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggHatch
+  - first:
+      74: 5521232980549207831
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggS
+  - first:
+      74: 1366580228385563858
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggS.001
+  - first:
+      74: 3563051882410541289
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggS.002
+  - first:
+      74: -128515152204356027
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggS.003
+  - first:
+      74: -664171348455734348
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggS.004
+  - first:
+      74: 6887356277433400568
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggSpawn
+  - first:
+      74: -6362231965217933828
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggW
+  - first:
+      74: -4893691976316111634
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggW.001
+  - first:
+      74: 8872804177616478743
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggW.002
+  - first:
+      74: -6155245062100076777
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggW.003
+  - first:
+      74: -9166648073295899651
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggW.004
+  - first:
+      74: -6939883442593638173
+    second: raid_egg_2_model|raid_egg_2_model|raid_egg_2_model|raid_egg_5_model|RaidEggWiggl
+  - first:
+      74: 85172169265822098
+    second: raid_egg_2_model|raid_egg_2_model|RaidEggCountdown|Base Layer
+  - first:
+      74: -3218823884153829431
+    second: raid_egg_2_model|raid_egg_2_model|RaidEggHatchFinish|Base Layer
+  - first:
+      74: -238919823928019903
+    second: raid_egg_2_model|raid_egg_2_model|RaidEggHatchLoop|Base Layer
+  - first:
+      74: -5321317295031554939
+    second: raid_egg_2_model|raid_egg_2_model|RaidEggHatchStart|Base Layer
+  - first:
+      74: 7816796335658550906
+    second: raid_egg_2_model|raid_egg_2_model|RaidEggSpawn|Base Layer
+  - first:
+      74: 3600081531546509590
+    second: raid_egg_2_model|raid_egg_2_model|RaidEggWiggleOnce|Base Layer
+  - first:
+      74: 847905321026848232
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggC
+  - first:
+      74: -5220028687431085681
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggCount
+  - first:
+      74: -1585347937039262813
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggH
+  - first:
+      74: -9025647854109919655
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggH.001
+  - first:
+      74: -1032835191345705838
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggH.002
+  - first:
+      74: 4059405246949378863
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggH.003
+  - first:
+      74: 8087434949529163222
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggH.004
+  - first:
+      74: 3268378992062465605
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggHatch
+  - first:
+      74: -743690648280038746
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggS
+  - first:
+      74: 261904129533783226
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggSpawn
+  - first:
+      74: 6380684696579358907
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggW
+  - first:
+      74: -5018472909302671768
+    second: raid_egg_2_model|raid_egg_5_model|raid_egg_5_model|raid_egg_5_model|RaidEggWiggl
+  - first:
+      74: -8282855801976342773
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggCountdown|Base Layer
+  - first:
+      74: -4325632935681842371
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggCountdown|Base Layer.001
+  - first:
+      74: 7029672131763299694
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggCountdown|Base Layer.002
+  - first:
+      74: -6959654762671933899
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggHatchFinish|Base Layer
+  - first:
+      74: -6453667860636533326
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggHatchFinish|Base Layer.001
+  - first:
+      74: -874562021843455901
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggHatchFinish|Base Layer.002
+  - first:
+      74: 4920672616012127599
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggHatchLoop|Base Layer
+  - first:
+      74: 1692478514377664866
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggHatchLoop|Base Layer.001
+  - first:
+      74: 956031969012913366
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggHatchLoop|Base Layer.002
+  - first:
+      74: -6194394079846442778
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggHatchStart|Base Layer
+  - first:
+      74: -9025775704530350454
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggHatchStart|Base Layer.001
+  - first:
+      74: -4730831566714965356
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggHatchStart|Base Layer.002
+  - first:
+      74: 6900273373758852676
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggSpawn|Base Layer
+  - first:
+      74: -2912117263126603928
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggSpawn|Base Layer.001
+  - first:
+      74: -2267057142068359027
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggSpawn|Base Layer.002
+  - first:
+      74: -3534896206583448960
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggWiggleOnce|Base Layer
+  - first:
+      74: -532949173111190053
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggWiggleOnce|Base Layer.001
+  - first:
+      74: -1278335505648755366
+    second: raid_egg_2_model|raid_egg_5_model|RaidEggWiggleOnce|Base Layer.002
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

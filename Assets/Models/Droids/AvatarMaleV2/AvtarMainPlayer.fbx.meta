@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: db79c164e1dbfab4cb80cdd3f6e185a7
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 8956674590674663751
+    second: AvatarMalePrefab|AvatarMalePrefab|Challenge|Base Layer
+  - first:
+      74: 8485654036563764497
+    second: AvatarMalePrefab|AvatarMalePrefab|Defeat|Base Layer
+  - first:
+      74: 2005471550863065659
+    second: AvatarMalePrefab|AvatarMalePrefab|Defend|Base Layer
+  - first:
+      74: 7718800766988985502
+    second: AvatarMalePrefab|AvatarMalePrefab|Idle Gym Screen 0|Base Layer
+  - first:
+      74: -4343268646432809239
+    second: AvatarMalePrefab|AvatarMalePrefab|Idle Gym Screen 1|Base Layer
+  - first:
+      74: 8952431869290939952
+    second: AvatarMalePrefab|AvatarMalePrefab|Idle Gym Screen 2|Base Layer
+  - first:
+      74: -2443012091164143042
+    second: AvatarMalePrefab|AvatarMalePrefab|Idle Gym Screen 3|Base Layer
+  - first:
+      74: -8774472216284002063
+    second: AvatarMalePrefab|AvatarMalePrefab|Idle_1|Base Layer
+  - first:
+      74: 3592132842263373607
+    second: AvatarMalePrefab|AvatarMalePrefab|Idle_Baby|Base Layer
+  - first:
+      74: 2930134071454151629
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_00|Base Layer
+  - first:
+      74: -363270620868993106
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_01|Base Layer
+  - first:
+      74: 7724429570319711142
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_02|Base Layer
+  - first:
+      74: 6044802992666932089
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_03|Base Layer
+  - first:
+      74: -3102292677893881819
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_04|Base Layer
+  - first:
+      74: -8376141926959657863
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_05|Base Layer
+  - first:
+      74: -8844758805601051569
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_06|Base Layer
+  - first:
+      74: -8755045256830490561
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_07|Base Layer
+  - first:
+      74: 7419573897068899693
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_08|Base Layer
+  - first:
+      74: 6519221204990569632
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_09|Base Layer
+  - first:
+      74: 5263237911012580490
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_10|Base Layer
+  - first:
+      74: 2414029267990550696
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_11|Base Layer
+  - first:
+      74: 4782692211267080797
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_12|Base Layer
+  - first:
+      74: 4779869584933201788
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_13|Base Layer
+  - first:
+      74: 3541622492964246785
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_14|Base Layer
+  - first:
+      74: -5690287362057994333
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_15|Base Layer
+  - first:
+      74: 7406989263379028667
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_16|Base Layer
+  - first:
+      74: 7280816276080619626
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_17|Base Layer
+  - first:
+      74: 3142428433282405695
+    second: AvatarMalePrefab|AvatarMalePrefab|idle_pose_18|Base Layer
+  - first:
+      74: -2403715362947377230
+    second: AvatarMalePrefab|AvatarMalePrefab|Idle|Base Layer
+  - first:
+      74: -8856284875931794676
+    second: AvatarMalePrefab|AvatarMalePrefab|React|Base Layer
+  - first:
+      74: 7484352853182414330
+    second: AvatarMalePrefab|AvatarMalePrefab|Retrieve|Base Layer
+  - first:
+      74: -234564733079295286
+    second: AvatarMalePrefab|AvatarMalePrefab|Run|Base Layer
+  - first:
+      74: 3219634190805048532
+    second: AvatarMalePrefab|AvatarMalePrefab|Special Attack|Base Layer
+  - first:
+      74: 2963032635166131466
+    second: AvatarMalePrefab|AvatarMalePrefab|Throw Ball|Base Layer
+  - first:
+      74: -3014578644663736626
+    second: AvatarMalePrefab|AvatarMalePrefab|Victory|Base Layer
+  - first:
+      74: -7868127522275950062
+    second: AvatarMalePrefab|AvatarMalePrefab|Walk|Base Layer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

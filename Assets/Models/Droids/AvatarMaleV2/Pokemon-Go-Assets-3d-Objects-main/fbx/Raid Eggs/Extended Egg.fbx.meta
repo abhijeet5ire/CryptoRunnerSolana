@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 87e9cb6c63bd09043bd95b53b61166ce
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -6513926170697586459
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggCountdown|Base Layer
+  - first:
+      74: 9175599942090301207
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggCountdown|Base Layer.001
+  - first:
+      74: 4588407789884534248
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggCountdown|Base Layer.002
+  - first:
+      74: 2381504913114462812
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggHatchFinish|Base Layer
+  - first:
+      74: 3743429148429745405
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggHatchFinish|Base Layer.001
+  - first:
+      74: 1926880330093270782
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggHatchFinish|Base Layer.002
+  - first:
+      74: -1306940430888106668
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggHatchLoop|Base Layer
+  - first:
+      74: -6723024894323524719
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggHatchLoop|Base Layer.001
+  - first:
+      74: 2019195967887677484
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggHatchLoop|Base Layer.002
+  - first:
+      74: -2651053640435255181
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggHatchStart|Base Layer
+  - first:
+      74: -4749292728809997213
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggHatchStart|Base Layer.001
+  - first:
+      74: 812307034818222302
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggHatchStart|Base Layer.002
+  - first:
+      74: 2832715142334206447
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggSpawn|Base Layer
+  - first:
+      74: -6453978230102893576
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggSpawn|Base Layer.001
+  - first:
+      74: 1717532083883367747
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggSpawn|Base Layer.002
+  - first:
+      74: -3481250543994879941
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggWiggleOnce|Base Layer
+  - first:
+      74: 8504057654100328672
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggWiggleOnce|Base Layer.001
+  - first:
+      74: -5588038888939306126
+    second: raid_egg_5_model|raid_egg_5_model|RaidEggWiggleOnce|Base Layer.002
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
