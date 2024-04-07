@@ -8,7 +8,7 @@ A next-gen geo-tagged playground where players meet opportunities offered with a
 
 
 ## How to Install CryptoRunner
-1) Download the APK [CryptoRunner](https://drive.google.com/file/d/1IpnzKgYT8NYZs27xprJgEKfQnxw-DXiU/view?usp=sharing) and Install it please provide geolocation and physical activity access to run smoothly
+1) Download the APK [CryptoRunner](https://drive.google.com/file/d/1q7QliU5QGQrBvXwHT9VpXo1Bg9AG1yw0/view?usp=sharing) and Install it please provide geolocation and physical activity access to run smoothly
 
 2) Catch all the NFTs
 
@@ -16,7 +16,7 @@ A next-gen geo-tagged playground where players meet opportunities offered with a
 
 
 ## Deployed Contract Address
-0x1eeeda849696ed6815698f1c9694c730fa338a992def90d4b89963f4994df0d4::geotagrandnft::mint_geo_token
+SOLANA DEVNET https://explorer.solana.com/tx/2f9zHDt8DE6MGsyDkP7fXzvqrYheK4EmfttPBx4NbqydKJSnUfiNTHvYRW8Q6qvAnfueaPtKt8omovsKaXtWuZ8f?cluster=devnet
 
 ## Screenshot of Project 
 
